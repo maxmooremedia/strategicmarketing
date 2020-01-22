@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://hungry-albattani-112645.netlify.com"
+baseURL = "https://maxmooremedia.com"
 title = "Max Moore Media"
 themesDir = "themes"
 theme = "maxtheme"
