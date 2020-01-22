@@ -84,7 +84,7 @@ funfacts:
     - name : "Michael Walters"
       image : "images/clients/avater-1.jpg"
       designation : ""
-      content : "This Company created a series of panoramic photrgraphs to hang in our boardroom.. They look really fantastic and relate to our business practice."
+      content : "Max Moore Media created a series of panoramic photographs for our company to hang in our boardroom.. They look really fantastic and relate to our business practice."
                 
     # testimonial item loop
     - name : "Troy Shillington"
