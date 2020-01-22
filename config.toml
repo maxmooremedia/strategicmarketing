@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://maxmooremedia.com"
+baseURL = "https://zealous-bardeen-ceb25a.netlify.com/"
 title = "Max Moore Media"
 themesDir = "themes"
 theme = "maxtheme"
