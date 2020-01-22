@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://www.maxmooremedia.com/"
+baseURL = ""
 title = "Max Moore Media"
 themesDir = "themes"
 theme = "maxtheme"
