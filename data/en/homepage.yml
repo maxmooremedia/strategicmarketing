@@ -2,16 +2,13 @@
 banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
-  title : "Strategic Marketing <br> xxxxxxx
-  xxxxxxxx
-  xxxxxxx
-  
+  title : "Strategic Marketing
   <br />"
   content : "WE CREATE INFORMATIVE AND MEMORABLE NARRATIVES TO CONVEY YOUR MESSAGE <br/>
   TO THE WORLD"
   button:
     enable : true
-    label : "Discover Our Work"
+    label : "View Our Work"
     link : "project"
 
 ############################# About #################################
