@@ -2,10 +2,8 @@
 banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
-  title : "Strategic Marketing
- xxxxxxxxx
- xxxxxxxxxxxxxxx" <br />
-  content : "WE CREATE INFORMATIVE AND MEMORABLE NARRATIVES TO CONVEY YOUR MESSAGE <br/>
+  title : "Strategic Marketing" <br />
+  content : "WE CREATE INFORMATIVE AND MEMORABLE NARRATIVES <br/>TO CONVEY YOUR MESSAGE 
   TO THE WORLD"
    <br />
   button:
