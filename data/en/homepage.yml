@@ -3,9 +3,10 @@ banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
   title : "Strategic Marketing
-  <br />"
+ " <br />
   content : "WE CREATE INFORMATIVE AND MEMORABLE NARRATIVES TO CONVEY YOUR MESSAGE <br/>
   TO THE WORLD"
+   <br />
   button:
     enable : true
     label : "View Our Work"
