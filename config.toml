@@ -198,6 +198,6 @@ google_analitycs_id = "Your ID"
   weight = 1
   home = "Home"
   # copyright
-  copyright = "Copyright &copy; 2020 All Rights Reserved <br >[Themefisher & HUGO]"
+  copyright = "Copyright &copy; 2020 All Rights Reserved <br >Made with Hugo"
 
  
