@@ -4,7 +4,7 @@ description: "this is meta description"
 draft: false
 image : "images/portfolio/work5.jpg"
 bg_image: "images/company/cranes2.jpg"
-category: "Illustration"
+category: "Photography"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

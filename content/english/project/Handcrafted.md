@@ -4,7 +4,7 @@ description: "Contemporary Fashion Accessories"
 draft: false
 image : "images/portfolio/work1.jpg"
 bg_image: "images/company/cranes3.jpg"
-category: "UI/UX Design"
+category: "Web Design"
 information:
   - label : "Client"
     info : "Sue Matthewson"

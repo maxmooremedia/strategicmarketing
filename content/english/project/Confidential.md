@@ -4,7 +4,7 @@ description: "Secure Financial Information"
 draft: false
 image : "images/portfolio/confidential.jpg"
 bg_image: "images/company/cranes2.jpg"
-category: "UI/UX Design"
+category: "Web Design"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"
