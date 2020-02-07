@@ -4,7 +4,7 @@ description: "Import and Export Shipping Company"
 draft: false
 image : "images/portfolio/work6.jpg"
 bg_image: "images/featue-bg.jpg"
-category: "UI/UX Design"
+category: "Website Design"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"
