@@ -2,12 +2,13 @@
 banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
-  title : "Strategic Marketing <br/> & Visual Communications"
-  content : "WE CREATE INFORMATIVE AND MEMORABLE NARRATIVES TO CONVEY YOUR MESSAGE <br/>
+  title : "Strategic Marketing" <br />
+  content : "WE CREATE INFORMATIVE AND MEMORABLE NARRATIVES <br/>TO CONVEY YOUR MESSAGE 
   TO THE WORLD"
+   <br />
   button:
     enable : true
-    label : "Discover Our Work"
+    label : "View Our Work"
     link : "project"
 
 ############################# About #################################
@@ -84,7 +85,7 @@ funfacts:
     - name : "Michael Walters"
       image : "images/clients/avater-1.jpg"
       designation : ""
-      content : "This Company created a series of panoramic photrgraphs to hang in our boardroom.. They look really fantastic and relate to our business practice."
+      content : "Max Moore Media created a series of panoramic photographs for our company to hang in our boardroom.. They look really fantastic and relate to our business practice."
                 
     # testimonial item loop
     - name : "Troy Shillington"
